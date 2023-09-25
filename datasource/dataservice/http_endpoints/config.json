@@ -5,7 +5,7 @@
     "method": "GET",
     "endpoint": "/index/history_price/now",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [],
     "settings": {
@@ -24,7 +24,7 @@
     "method": "GET",
     "endpoint": "/index/compositions",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -51,7 +51,7 @@
     "method": "GET",
     "endpoint": "/index/compositions/exchange_distribution",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -78,7 +78,7 @@
     "method": "GET",
     "endpoint": "/index/compositions/country_distribution",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -105,7 +105,7 @@
     "method": "GET",
     "endpoint": "/index/sector_industry_distribution",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -132,7 +132,7 @@
     "method": "GET",
     "endpoint": "/stock/summary",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -159,7 +159,7 @@
     "method": "GET",
     "endpoint": "/stock/history_price/daily",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -200,7 +200,7 @@
     "method": "GET",
     "endpoint": "/index/history_price/weekly",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -241,7 +241,7 @@
     "method": "GET",
     "endpoint": "/index/history_price/daily",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -282,7 +282,7 @@
     "method": "GET",
     "endpoint": "/index/latest_price",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -309,7 +309,7 @@
     "method": "GET",
     "endpoint": "/stock/info",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -336,7 +336,7 @@
     "method": "GET",
     "endpoint": "/stock/history_price/weekly",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -377,7 +377,7 @@
     "method": "GET",
     "endpoint": "/index/sector_ranking",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -404,7 +404,7 @@
     "method": "GET",
     "endpoint": "/index/compositions_by_sector",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [
       {
@@ -438,7 +438,7 @@
     "method": "GET",
     "endpoint": "/sectors",
     "data_source": {
-      "cluster_id": 1379661944642684098
+      "cluster_id": 10320807059884970249
     },
     "params": [],
     "settings": {
